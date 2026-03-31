@@ -1,0 +1,25 @@
+Choosing ship locations:
+
+Select from the 4 displayed ships, from 0-3.
+Input the x and y coordinates for the position of the front of the ship.
+The range of x is 1 - 10. The range of y is A - J.
+Input the x and y coordinates for the position of the back of the ship - make sure that it is the correct distance from the first coordinate to match the ship's size, and it is in a straight line with the first coordinate.
+The ship will then be displayed on the grid, each position of the ship is marked with 'o'.
+
+Repeat for player 2.
+
+
+
+Choosing missile locations:
+
+Input the x and y coordinates of where you would like to send a missile.
+
+Repeat for player 2.
+
+If the missile hits the other player's ship, it will be marked with an 'x' on your missile screen.
+If the missile misses the other player's ship, it will be marked with '/' on your missile screen.
+You can view your current ships on the lower ship screen.
+If your ship has been hit, that position will be marked with an 'x'.
+
+If all of the points of your ship have been hit, that ship is destroyed.
+The game ends when all of one player's ships have been destroyed, and the other player wins.
