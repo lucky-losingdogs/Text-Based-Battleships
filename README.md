@@ -26,4 +26,5 @@ A text-based version of Battleships I made for a university module. This is writ
 ---
 
 ## Running The Project
-Open the solution (.sln) file in any IDE you prefer and press start to run the project in the console.
+- To run the game/view the code in an IDE, open the solution (.sln) file in any IDE you prefer and press start to run the project in the console.
+- To just run the game in your console, go to the latest build in releases, download the zip and open the Battleships application.
